@@ -1,5 +1,8 @@
 langchain
 langchain-community
-torch
+langchain-core
+langchain-ollama
+langchain-experimental
 sentence-transformers
 pypdf
+neo4j
