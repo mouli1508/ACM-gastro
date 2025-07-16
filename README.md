@@ -24,7 +24,7 @@ The pipeline is built around three core modules:
    - A **vector store** for unstructured text snippets from medical documents.
 3. **Answer Generation**: Compiles retrieved data into a single context and uses a local Llama model to synthesize a natural, evidence-based answer.
 
-![Pipeline Architecture](image1.png)  
+![Pipeline Architecture](build-phase.png)  
 *Figure 1: Overview of the RAG pipeline architecture.*
 
 ## Knowledge Graph Construction
